@@ -1,6 +1,5 @@
 # QuAI
 QuAI is QNAP’s AI Developer Package, for data scientists and Engineers, to quickly build, train and optimize their AI Models, on top of QNAP NAS. 
-QuAI is QNAP’s AI Developer Package, for data scientists and Engineers, to quickly build, train and optimize their AI Models, on top of QNAP NAS. 
 
 QuAI enables data scientists and developers to quickly and easily build, train, Optimize and deploy machine learning models with high-performance machine learning algorithms, broad range of AI  framework support on top of QNAP's robust NAS
 
