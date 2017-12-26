@@ -54,7 +54,7 @@ You should able to see below message:
 
 Open above link, but change the url to nas_ip, 8888 to the port we specified before (18888). For example, http://nas_ip:18888/?token=08b29a4327e3553a4a68deb5359837b5914e30c5af77f521
 
-Download https://github.com/qnap-dev/quai/blob/master/demo-samples/demo1/mnist-deep.ipynb and upload to notebook
+Download https://github.com/qnap-dev/quai/blob/master/demo-samples/demo2/mnist-deep.ipynb and upload to notebook
 
 ## Open and run it
 
