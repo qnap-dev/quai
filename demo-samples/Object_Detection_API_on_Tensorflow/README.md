@@ -46,39 +46,39 @@ docker run --rm -it --name ces2019gpu --ipc=host -p 28888:8888 -p 26006:6006 --d
 #### CUDA 9 : 
 
 1. Search docker image from **Docker Hub**
-![img](assets/create1.png)
+	![img](assets/create1.png)
 
 2. Choice docker image tag (version)
-![img](assets/create2.png)
+	![img](assets/create2.png)
 
 3. Change page to **"Advanced Settings"**
-![img](assets/1554263479070.png)
+	![img](assets/1554263479070.png)
 
 4. Setting port forwarding
-![img](assets/1554185645293.png)
+	![img](assets/1554185645293.png)
 
 5. Mount GPU card
-![img](assets/1554185653289.png)
+	![img](assets/1554185653289.png)
 
 6. Created container
-![img](assets/1554185660272.png)
+	![img](assets/1554185660272.png)
 
 #### CUDA 10 : 
 
 1. Switch to **images** page and create `qhub/tfod-ces2019:1.13-gpu` container
-![img](assets/1554263420930.png)
+	![img](assets/1554263420930.png)
 
 2. Switch page to **Advanced Settings**
-![img](assets/1554263479070.png)
+	![img](assets/1554263479070.png)
 
 3. Setting port forwarding
-![img](assets/1554185645293.png)
+	![img](assets/1554185645293.png)
 
 4. Mount GPU card
-![img](assets/1554185653289.png)
+	![img](assets/1554185653289.png)
 
 5. Created container
-![img](assets/1554263539719.png)
+	![img](assets/1554263539719.png)
 
 You now can surf the web link to use jupyter notebook (online IDE). 
 **http://\<IP\>:28888/?token="(fetch from terminal)"**
