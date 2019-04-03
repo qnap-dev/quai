@@ -3,7 +3,9 @@
 ## Main Repositories
 
 DockerHub : <https://hub.docker.com/u/qhub> 
+
 Github : <https://github.com/qpjkw/tfod_ces2019.git>
+
 Tensorflow Object Detection API : <https://github.com/tensorflow/models/tree/master/research/object_detection>
 
 ## Build container images
